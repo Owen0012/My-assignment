@@ -6,3 +6,11 @@ body{
     text-align: center;
     text-decoration: underline;
 }
+p{
+    font-size: 30px;
+    text-decoration: underline;
+}
+img{
+    height: 230px;
+    width: 300px;
+}
